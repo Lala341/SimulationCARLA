@@ -1,6 +1,8 @@
 
 # Simulations for Autonomous Vehicles in the CARLA environment from the extraction of patterns in video analysis of Bogotá
 
+Video: https://youtu.be/GFKQv1j6vpQ
+
 
 ## Módulo de extracción de requerimientos
 
